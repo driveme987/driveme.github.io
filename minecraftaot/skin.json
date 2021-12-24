@@ -1,0 +1,275 @@
+{
+"Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "main_ads_intertitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 2,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 3,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 4,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 5,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 6,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 7,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 8,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 9,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 10,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+    {
+      "id": 11,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 12,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 13,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 14,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 15,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 16,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 17,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 18,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 19,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 20,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+    {
+      "id": 21,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 22,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 23,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 24,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 25,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 26,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 27,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 28,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 29,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 30,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+    {
+      "id": 31,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 32,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 33,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 34,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 35,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 36,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 37,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 38,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 39,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 40,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+    {
+      "id": 41,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 42,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 43,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 44,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 45,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 46,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 47,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 48,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 49,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    },
+        {
+      "id": 50,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/"
+    }
+  ]
+}
