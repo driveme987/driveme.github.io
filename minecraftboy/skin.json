@@ -1,0 +1,275 @@
+{
+"Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"",
+      "main_ads_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "main_ads_intertitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 2,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 3,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 4,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 5,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 6,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 7,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 8,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 9,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 10,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+    {
+      "id": 11,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 12,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 13,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 14,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 15,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 16,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 17,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 18,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 19,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 20,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+    {
+      "id": 21,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 22,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 23,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 24,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 25,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 26,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 27,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 28,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 29,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 30,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+    {
+      "id": 31,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 32,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 33,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 34,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 35,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 36,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 37,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 38,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 39,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 40,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+    {
+      "id": 41,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 42,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 43,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 44,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 45,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 46,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 47,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 48,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 49,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    },
+        {
+      "id": 50,
+      "name_skin": "",
+      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+    }
+  ]
+}
