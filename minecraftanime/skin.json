@@ -1,7 +1,7 @@
 {
 "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "",
       "select_backup_ads":"",
       "main_ads_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "main_ads_intertitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -23,253 +23,503 @@
   "Skin": [
     {
       "id": 1,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 1",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins1.png"
     },
         {
       "id": 2,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 2",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins2.png"
     },
         {
       "id": 3,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 3",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins3.png"
     },
         {
       "id": 4,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 4",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins4.png"
     },
         {
       "id": 5,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 5",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins5.png"
     },
         {
       "id": 6,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 6",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins6.png"
     },
         {
       "id": 7,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 7",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins7.png"
     },
         {
       "id": 8,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 8",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins8.png"
     },
         {
       "id": 9,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 9",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins9.png"
     },
         {
       "id": 10,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 10",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins10.png"
     },
     {
       "id": 11,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 11",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins11.png"
     },
         {
       "id": 12,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 12",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins12.png"
     },
         {
       "id": 13,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 13",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins13.png"
     },
         {
       "id": 14,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 14",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins14.png"
     },
         {
       "id": 15,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 15",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins15.png"
     },
         {
       "id": 16,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 16",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins16.png"
     },
         {
       "id": 17,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 17",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins17.png"
     },
         {
       "id": 18,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 18",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins18.png"
     },
         {
       "id": 19,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 19",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins19.png"
     },
         {
       "id": 20,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 20",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins20.png"
     },
     {
       "id": 21,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 21",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins21.png"
     },
         {
       "id": 22,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 22",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins22.png"
     },
         {
       "id": 23,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 23",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins23.png"
     },
         {
       "id": 24,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 24",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins24.png"
     },
         {
       "id": 25,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 25",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins25.png"
     },
         {
       "id": 26,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 26",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins26.png"
     },
         {
       "id": 27,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 27",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins27.png"
     },
         {
       "id": 28,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 28",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins28.png"
     },
         {
       "id": 29,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 29",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins29.png"
     },
         {
       "id": 30,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 30",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins30.png"
     },
     {
       "id": 31,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 31",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins31.png"
     },
         {
       "id": 32,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 32",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins32.png"
     },
         {
       "id": 33,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 33",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins33.png"
     },
         {
       "id": 34,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 34",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins34.png"
     },
         {
       "id": 35,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 35",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins35.png"
     },
         {
       "id": 36,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 36",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins36.png"
     },
         {
       "id": 37,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 37",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins37.png"
     },
         {
       "id": 38,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 38",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins38.png"
     },
         {
       "id": 39,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 39",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins39.png"
     },
         {
       "id": 40,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 40",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins40.png"
     },
     {
       "id": 41,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 41",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins41.png"
     },
         {
       "id": 42,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 42",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins42.png"
     },
         {
       "id": 43,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 43",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins43.png"
     },
         {
       "id": 44,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 44",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins44.png"
     },
         {
       "id": 45,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 45",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins45.png"
     },
         {
       "id": 46,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 46",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins46.png"
     },
         {
       "id": 47,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 47",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins47.png"
     },
         {
       "id": 48,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 48",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins48.png"
     },
         {
       "id": 49,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 49",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins49.png"
     },
         {
       "id": 50,
-      "name_skin": "",
-      "install_skin": "https://pixelgit987.github.io/girl/skin/"
+      "name_skin": "Anime Skins 50",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskins50.png"
+    },
+              {
+      "id": 51,
+      "name_skin": "Anime Skins 51",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins51.png"
+    },
+            {
+      "id": 52,
+      "name_skin": "Anime Skins 52",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins52.png"
+    },
+            {
+      "id": 53,
+      "name_skin": "Anime Skins 53",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins53.png"
+    },
+            {
+      "id": 54,
+      "name_skin": "Anime Skins 54",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins54.png"
+    },
+            {
+      "id": 55,
+      "name_skin": "Anime Skins 55",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins55.png"
+    },
+            {
+      "id": 56,
+      "name_skin": "Anime Skins 56",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins56.png"
+    },
+            {
+      "id": 57,
+      "name_skin": "Anime Skins 57",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins57.png"
+    },
+            {
+      "id": 58,
+      "name_skin": "Anime Skins 58",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins58.png"
+    },
+            {
+      "id": 59,
+      "name_skin": "Anime Skins 59",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins59.png"
+    },
+            {
+      "id": 60,
+      "name_skin": "Anime Skins 60",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins60.png"
+    },
+            {
+      "id": 61,
+      "name_skin": "Anime Skins 61",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins61.png"
+    },
+            {
+      "id": 62,
+      "name_skin": "Anime Skins 62",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins62.png"
+    },
+            {
+      "id": 63,
+      "name_skin": "Anime Skins 63",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins63.png"
+    },
+            {
+      "id": 64,
+      "name_skin": "Anime Skins 64",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins64.png"
+    },
+            {
+      "id": 65,
+      "name_skin": "Anime Skins 65",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins65.png"
+    },
+            {
+      "id": 66,
+      "name_skin": "Anime Skins 66",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins66.png"
+    },
+            {
+      "id": 67,
+      "name_skin": "Anime Skins 67",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins67.png"
+    },
+            {
+      "id": 68,
+      "name_skin": "Anime Skins 68",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins68.png"
+    },
+            {
+      "id": 69,
+      "name_skin": "Anime Skins 69",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins69.png"
+    },
+            {
+      "id": 70,
+      "name_skin": "Anime Skins 70",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins70.png"
+    },
+            {
+      "id": 71,
+      "name_skin": "Anime Skins 71",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins71.png"
+    },
+            {
+      "id": 72,
+      "name_skin": "Anime Skins 72",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins72.png"
+    },
+            {
+      "id": 73,
+      "name_skin": "Anime Skins 73",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins73.png"
+    },
+            {
+      "id": 74,
+      "name_skin": "Anime Skins 74",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins74.png"
+    },
+            {
+      "id": 75,
+      "name_skin": "Anime Skins 75",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins75.png"
+    },
+            {
+      "id": 76,
+      "name_skin": "Anime Skins 76",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins76.png"
+    },
+            {
+      "id": 77,
+      "name_skin": "Anime Skins 77",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins77.png"
+    },
+            {
+      "id": 78,
+      "name_skin": "Anime Skins 78",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins78.png"
+    },
+            {
+      "id": 79,
+      "name_skin": "Anime Skins 79",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins79.png"
+    },
+            {
+      "id": 80,
+      "name_skin": "Anime Skins 80",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins80.png"
+    },
+            {
+      "id": 81,
+      "name_skin": "Anime Skins 81",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins81.png"
+    },
+            {
+      "id": 82,
+      "name_skin": "Anime Skins 82",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins82.png"
+    },
+            {
+      "id": 83,
+      "name_skin": "Anime Skins 83",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins83.png"
+    },
+            {
+      "id": 84,
+      "name_skin": "Anime Skins 84",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins84.png"
+    },
+            {
+      "id": 85,
+      "name_skin": "Anime Skins 85",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins85.png"
+    },
+            {
+      "id": 86,
+      "name_skin": "Anime Skins 86",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins86.png"
+    },
+            {
+      "id": 87,
+      "name_skin": "Anime Skins 87",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins87.png"
+    },
+            {
+      "id": 88,
+      "name_skin": "Anime Skins 88",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins88.png"
+    },
+            {
+      "id": 89,
+      "name_skin": "Anime Skins 89",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins89.png"
+    },
+            {
+      "id": 90,
+      "name_skin": "Anime Skins 90",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins90.png"
+    },
+            {
+      "id": 91,
+      "name_skin": "Anime Skins 91",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins91.png"
+    },
+            {
+      "id": 92,
+      "name_skin": "Anime Skins 92",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins92.png"
+    },
+            {
+      "id": 93,
+      "name_skin": "Anime Skins 93",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins93.png"
+    },
+            {
+      "id": 94,
+      "name_skin": "Anime Skins 94",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins94.png"
+    },
+            {
+      "id": 95,
+      "name_skin": "Anime Skins 95",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins95.png"
+    },
+            {
+      "id": 96,
+      "name_skin": "Anime Skins 96",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins96.png"
+    },
+            {
+      "id": 97,
+      "name_skin": "Anime Skins 97",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins97.png"
+    },
+            {
+      "id": 98,
+      "name_skin": "Anime Skins 98",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins98.png"
+    },
+            {
+      "id": 99,
+      "name_skin": "Anime Skins 99",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins99.png"
+    },
+            {
+      "id": 100,
+      "name_skin": "Anime Skins 100",
+      "install_skin": "https://driveme987.github.io/minecraftanime/skin/animeskinss Skins100.png"
     }
   ]
 }
